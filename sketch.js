@@ -91,7 +91,7 @@ invisibleG=createSprite(500,640,2000,10)
 invisibleG.visible = true
 
  rocksGroup= new Group()
- player.debug= true
+ player.debug= false
  player.setCollider("circle",0,200,130)
 score=0
  
